@@ -1,26 +1,26 @@
-* HW02
+# HW02
 
-*** Building
+### Building
 
-**** `sorting.c`
+#### `sorting.c`
 
 ``` shell
 $ make sorting
 ```
 
-**** `time_pipe.c`
+#### `time_pipe.c`
 
 ```shell
 $ make pipe
 ```
 
-**** `time_shm.c`
+#### `time_shm.c`
 
 ```shell
 $ make shm
 ```
 
-*** Usage
+### Usage
 
 ```shell
 $ ./sorting
