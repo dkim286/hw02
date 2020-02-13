@@ -1,4 +1,5 @@
 /**
+ * Chris Nutter
  * Austin Kim
  * time_pipe.c -- get time elapsed of a command using pipes
  */

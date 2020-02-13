@@ -1,4 +1,5 @@
 /**
+ * Chris Nutter
  * Austin Kim
  * time_shm.c -- Get time elapsed on a command using shared memory
  */

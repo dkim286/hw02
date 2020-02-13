@@ -1,4 +1,5 @@
 /**
+ * Chris Nutter
  * Austin Kim
  * sorting.c -- a threaded array sorting program
  */
