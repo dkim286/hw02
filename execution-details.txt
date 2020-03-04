@@ -1,0 +1,28 @@
+# BUILDING
+
+	Refer to the readme-first.txt file for details.
+
+
+# SORTING
+
+	This program should run as-is without any additional arguments:
+
+		$ ./sorting
+
+
+# TIME_PIPE
+
+	Syntax: time_pipe <cmd>
+
+	Example:
+		
+		$ ./time_pipe ps aux
+	
+
+# TIME_SHM
+
+	Syntax: time_shm <cmd>
+
+	Example:
+
+		$ ./time_shm stty -a
