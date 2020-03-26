@@ -3,6 +3,12 @@
 	Assignment 2 -- Processes and threads
 
 
+# TEAM MEMBERS
+
+	Chris Nutter
+	Austin Kim
+
+
 # DESCRIPTION
 
 	This submission contains both the "processes" part and the "threads" part of
