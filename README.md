@@ -1,5 +1,5 @@
 # HW02: Processes & Threads
-Programming assignment for CSUF's Operating Systems class. Developed with [Chris](https://github.com/cdnutter).
+Programming assignment for CSUF's Operating Systems class. Developed in conjunction with [Chris](https://github.com/cdnutter).
 
 ### Building
 
